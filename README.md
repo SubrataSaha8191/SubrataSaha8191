@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./terminal-light.svg" />
-    <img alt="Subrata Saha Terminal" src="./terminal.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-light.svg" />
+    <img alt="Subrata Saha Terminal" src="./profile-terminal.svg" width="100%" />
   </picture>
 </p>
 
