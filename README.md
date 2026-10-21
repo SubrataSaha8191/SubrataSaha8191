@@ -33,17 +33,37 @@ I approach engineering by moving beyond prototypes into working, dependable syst
 
 ## `02 / Technology stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,sklearn,fastapi,nodejs,mongodb,mysql,docker,aws,git,github,linux,vscode&perline=8" alt="Core Technologies" />
-</p>
+<div align="center">
+  <h3>💻 Tech Stack ⚡</h3>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)<br/><sub>Python · C · C++ · Rust</sub> |
-| **AI/ML & Data Science** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDRoMy41bDQuNSA2IDQuNS02SDIwbC02LjUgOC41TDIwIDIxaC0zLjVMMTIgMTVsLTQuNSA2SDRsNi41LTguNXoiLz48L3N2Zz4=&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-4CAF50?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgMTJoNXY4aDZ2LThoNUwxMiAyeiIvPjwvc3ZnPg==&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)<br/><sub>scikit-learn · XGBoost · LightGBM · Hugging Face · Ollama</sub> |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br/><sub>FastAPI · Node.js</sub> |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br/><sub>MongoDB · MySQL</sub> |
-| **Infrastructure & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)<br/><sub>Linux · Git · GitHub · Docker · AWS · VS Code</sub> |
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/XGBoost-1572B6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDRoMy41bDQuNSA2IDQuNS02SDIwbC02LjUgOC41TDIwIDIxaC0zLjVMMTIgMTVsLTQuNSA2SDRsNi41LTguNXoiLz48L3N2Zz4=&logoColor=white" alt="XGBoost" />
+    <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgMTJoNXY4aDZ2LThoNUwxMiAyeiIvPjwvc3ZnPg==&logoColor=white" alt="LightGBM" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </p>
+</div>
 
 ---
 
@@ -88,12 +108,14 @@ I approach engineering by moving beyond prototypes into working, dependable syst
 
 ## `06 / Connect`
 
-I am always interested in discussing machine learning architectures, security engineering, and systems automation.
+<div align="center">
+  <h3>🌐 Connect with Me 🚀</h3>
 
-<p align="center">
-  <a href="https://github.com/SubrataSaha8191"><img src="https://img.shields.io/badge/GitHub-SubrataSaha8191-181717?style=flat-square&logo=github&logoColor=white" alt="Subrata Saha GitHub Profile" /></a>
-  <a href="https://www.linkedin.com/in/subrata-saha-568a9835a/"><img src="https://img.shields.io/badge/LinkedIn-Subrata_Saha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Subrata Saha LinkedIn Profile" /></a>
-</p>
+  <p>
+    <a href="https://github.com/SubrataSaha8191"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/subrata-saha-568a9835a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
 <p align="center">
   <code>subrata@SubrataSaha8191:~$ exit</code>
