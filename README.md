@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal-light.svg" />
-    <img alt="Subrata Saha Terminal" src="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./terminal-light.svg" />
+    <img alt="Subrata Saha Terminal" src="./terminal.svg" width="100%" />
   </picture>
 </p>
 
