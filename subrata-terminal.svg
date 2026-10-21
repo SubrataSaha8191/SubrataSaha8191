@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 840" width="100%" height="auto">
+  <defs>
+    <style>
+      .term-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 10px; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #8b949e; text-anchor: middle; }
+      .ascii { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 11px; fill: #7ee787; white-space: pre; }
+      .text { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 13px; white-space: pre; }
+      .text-head { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 14.5px; white-space: pre; }
+      .user { fill: #58a6ff; font-weight: bold; }
+      .rule { fill: #484f58; }
+      .sec { fill: #3fb950; font-weight: bold; }
+      .key { fill: #e3b341; font-weight: 500; }
+      .dots { fill: #484f58; }
+      .val { fill: #e6edf3; font-weight: 500; }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="1010" height="840" class="term-bg" />
+
+  <!-- Window Header Bar -->
+  <circle cx="24" cy="22" r="6" fill="#ff5f56" />
+  <circle cx="42" cy="22" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="22" r="6" fill="#27c93f" />
+  <text x="505" y="26" class="title">subrata@SubrataSaha8191: ~ (fastfetch)</text>
+  <line x1="1" y1="42" x2="1009" y2="42" stroke="#21262d" stroke-width="1" />
+  <text x="24" y="72.0" class="ascii">                ##+#+++++++++</text>
+  <text x="24" y="86.5" class="ascii">               ##############++#</text>
+  <text x="24" y="101.0" class="ascii">               ##################</text>
+  <text x="24" y="115.5" class="ascii">               +-------+#########</text>
+  <text x="24" y="130.0" class="ascii">              ---.-----++########</text>
+  <text x="24" y="144.5" class="ascii">              +--++++-----++++###</text>
+  <text x="24" y="159.0" class="ascii">              #+-+####+----++++##</text>
+  <text x="24" y="173.5" class="ascii">              -..-----------+#++</text>
+  <text x="24" y="188.0" class="ascii">             --+---------++++++#</text>
+  <text x="24" y="202.5" class="ascii">             ++#++++++++++++++</text>
+  <text x="24" y="217.0" class="ascii">              ++++#+++++++++-</text>
+  <text x="24" y="231.5" class="ascii">              ++++##++###++--</text>
+  <text x="24" y="246.0" class="ascii">              ##########++--+#</text>
+  <text x="24" y="260.5" class="ascii">                ++#####++---+++</text>
+  <text x="24" y="275.0" class="ascii">               ###+###+++--+++++</text>
+  <text x="24" y="289.5" class="ascii">              #+#######++++-+-++--..-+##</text>
+  <text x="24" y="304.0" class="ascii">           #+#+##+#+++++###+-+++----++++++</text>
+  <text x="24" y="318.5" class="ascii">        ###++++####--#######++++----++++++-+</text>
+  <text x="24" y="333.0" class="ascii">     #++##+++++#++#++###++++++++----++++++++++</text>
+  <text x="24" y="347.5" class="ascii">    #####+++++++++++++++++++--++----+###++++++</text>
+  <text x="24" y="362.0" class="ascii">   ######++++++++++++++-++++-++++++++###+++++++</text>
+  <text x="24" y="376.5" class="ascii">   #####++++++++++++++++++++++++++++#####+++++++#</text>
+  <text x="24" y="391.0" class="ascii">  #####+##++++++++++++++++++++-+++++#######+++++##</text>
+  <text x="24" y="405.5" class="ascii">  #######+++++++++++++++++++++++++++#######++++++#</text>
+  <text x="24" y="420.0" class="ascii">  #######+++++++++++++++++++++++##+++######+++++++</text>
+  <text x="24" y="434.5" class="ascii">  ########++++++####++++++++++++##++#######++++---</text>
+  <text x="24" y="449.0" class="ascii">  ################+++++#####++++###+#######++++++++</text>
+  <text x="24" y="463.5" class="ascii"> #################+++###+++++++####+########++++++#</text>
+  <text x="24" y="478.0" class="ascii"> #####################++###+#++++###########+++++###</text>
+  <text x="24" y="492.5" class="ascii"> ##############+#####++#++##+++++##########+++++++##</text>
+  <text x="24" y="507.0" class="ascii">  ###################+#++++#++++##############++++++</text>
+  <text x="24" y="521.5" class="ascii"> #################+++##++####++++################+++</text>
+  <text x="24" y="536.0" class="ascii"> ################+####++++++++++############+++##+--</text>
+  <text x="24" y="550.5" class="ascii"> #################+##++++++++++#++#########++++##+---</text>
+  <text x="24" y="565.0" class="ascii"> ##########+#######++##++++++#+++++#######+++++++#+-#+</text>
+  <text x="24" y="579.5" class="ascii">#############+###+#+####+++++++++++#########++++++--+-+</text>
+  <text x="24" y="594.0" class="ascii">#######################+++++++++++###+###+++#+++++++++#</text>
+  <text x="24" y="608.5" class="ascii">################++++++##++++++++++#+###++--+#++##++++##</text>
+  <text x="24" y="623.0" class="ascii"> ++###############+#####+++++--++##++##+-----++--++-+##</text>
+  <text x="24" y="637.5" class="ascii"> ++++####################++++++++#####++----+++--++-+##</text>
+  <text x="24" y="652.0" class="ascii"> ++++#######################+++++++###+----+++---+++###</text>
+  <text x="24" y="666.5" class="ascii"> ++++###############++####++++#######+-----+++---+++###</text>
+  <text x="24" y="681.0" class="ascii"> ++++##########++++##++++++#########++----++----+--++</text>
+  <text x="24" y="695.5" class="ascii"> ++++########++++++++++#######+#####+----++##++---++-</text>
+  <text x="24" y="710.0" class="ascii"> +++######+++++++++########++++##+#+-----++####+---+</text>
+  <text x="24" y="724.5" class="ascii"> +++#######+++#########++++++#++++-.----+#####++--+</text>
+  <text x="24" y="739.0" class="ascii"> +++###++++########++#######+++#++.....-#########</text>
+  <text x="24" y="753.5" class="ascii">#++++#######++++++#####+++++#++#+.+....+######</text>
+  <text x="24" y="768.0" class="ascii">#+---+##########++++++++++++++#+-..+----</text>
+  <text x="24" y="782.5" class="ascii">++---+###########++++++++#####++...-+-..</text>
+  <text x="24" y="797.0" class="ascii">+--+-+############++#++++++++++-..---...</text>
+  <text x="24" y="811.5" class="ascii">+-+#++#################+++++#++-----.....</text>
+  <text x="425" y="72.0" class="text-head"><tspan class="user">subrata@SubrataSaha8191</tspan><tspan class="rule"> ----------------------------------------</tspan></text>
+  <text x="425" y="91.8" class="text"><tspan class="key">. OS:</tspan><tspan class="dots"> ...................... </tspan><tspan class="val">Linux (Ubuntu / Kali), Windows</tspan></text>
+  <text x="425" y="111.6" class="text"><tspan class="key">. Uptime:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Computer Science &amp; Engineering Student</tspan></text>
+  <text x="425" y="131.4" class="text"><tspan class="key">. Host:</tspan><tspan class="dots"> .................... </tspan><tspan class="val">Systems, Security &amp; Applied AI</tspan></text>
+  <text x="425" y="151.2" class="text"><tspan class="key">. Kernel:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">AI/ML &amp; Automation Engineer</tspan></text>
+  <text x="425" y="171.0" class="text"><tspan class="key">. Shell:</tspan><tspan class="dots"> ................... </tspan><tspan class="val">zsh / bash / Linux Terminal</tspan></text>
+  <text x="425" y="190.8" class="text"><tspan class="key">. Editor / IDE:</tspan><tspan class="dots"> ........... </tspan><tspan class="val">VS Code, Neovim</tspan></text>
+  <text x="425" y="230.4" class="text-head"><tspan class="sec">- Programming Languages </tspan><tspan class="rule">---------------------------------</tspan></text>
+  <text x="425" y="250.2" class="text"><tspan class="key">. Core / Scripting:</tspan><tspan class="dots"> ....... </tspan><tspan class="val">Python (AI/ML, Data, Backend)</tspan></text>
+  <text x="425" y="270.0" class="text"><tspan class="key">. Systems:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">C, C++, Rust (Memory-Safe Tooling)</tspan></text>
+  <text x="425" y="289.8" class="text"><tspan class="key">. Web / Scripts:</tspan><tspan class="dots"> ........... </tspan><tspan class="val">JavaScript, Shell / Bash</tspan></text>
+  <text x="425" y="329.4" class="text-head"><tspan class="sec">- AI / ML &amp; Intelligent Agents </tspan><tspan class="rule">--------------------------</tspan></text>
+  <text x="425" y="349.2" class="text"><tspan class="key">. ML Frameworks:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">scikit-learn, XGBoost, LightGBM</tspan></text>
+  <text x="425" y="369.0" class="text"><tspan class="key">. Intelligent Agents:</tspan><tspan class="dots"> ...... </tspan><tspan class="val">Hugging Face, Ollama (Local LLMs)</tspan></text>
+  <text x="425" y="388.8" class="text"><tspan class="key">. Data &amp; Spatial:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">NumPy, Pandas, NASA FIRMS / VIIRS</tspan></text>
+  <text x="425" y="428.4" class="text-head"><tspan class="sec">- Backend &amp; Infrastructure </tspan><tspan class="rule">------------------------------</tspan></text>
+  <text x="425" y="448.2" class="text"><tspan class="key">. Web Services:</tspan><tspan class="dots"> ............ </tspan><tspan class="val">FastAPI (Async RESTful), Node.js</tspan></text>
+  <text x="425" y="468.0" class="text"><tspan class="key">. Databases:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">MongoDB (NoSQL), MySQL (Relational)</tspan></text>
+  <text x="425" y="487.8" class="text"><tspan class="key">. Cloud &amp; Containers:</tspan><tspan class="dots"> ...... </tspan><tspan class="val">Docker, AWS (Amazon Web Services)</tspan></text>
+  <text x="425" y="507.6" class="text"><tspan class="key">. CI/CD &amp; Tooling:</tspan><tspan class="dots"> ......... </tspan><tspan class="val">Git, GitHub Actions, Linux CLI</tspan></text>
+  <text x="425" y="547.2" class="text-head"><tspan class="sec">- Engineering Focus </tspan><tspan class="rule">-------------------------------------</tspan></text>
+  <text x="425" y="567.0" class="text"><tspan class="key">. Threat Intel:</tspan><tspan class="dots"> ............. </tspan><tspan class="val">Phishing &amp; Malicious URL Classification</tspan></text>
+  <text x="425" y="586.8" class="text"><tspan class="key">. Remote Sensing:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">Satellite Thermal Persistence Filtering</tspan></text>
+  <text x="425" y="606.6" class="text"><tspan class="key">. Decision Engines:</tspan><tspan class="dots"> ........ </tspan><tspan class="val">Context-Aware Intelligence (Voyager)</tspan></text>
+  <text x="425" y="626.4" class="text"><tspan class="key">. Systems Tooling:</tspan><tspan class="dots"> ......... </tspan><tspan class="val">Rust-Powered Fast Automation</tspan></text>
+  <text x="425" y="666.0" class="text-head"><tspan class="sec">- Contact &amp; Verification </tspan><tspan class="rule">--------------------------------</tspan></text>
+  <text x="425" y="685.8" class="text"><tspan class="key">. GitHub:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">github.com/SubrataSaha8191</tspan></text>
+  <text x="425" y="705.6" class="text"><tspan class="key">. LinkedIn:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">linkedin.com/in/subrata-saha-568a9835a</tspan></text>
+  <text x="425" y="745.2" class="text-head"><tspan class="sec">- Philosophy &amp; Mindset </tspan><tspan class="rule">----------------------------------</tspan></text>
+  <text x="425" y="765.0" class="text"><tspan class="key">. Mindset:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">Learn deeply. Build carefully.</tspan></text>
+  <text x="425" y="784.8" class="text"><tspan class="key">. Engineering Goal:</tspan><tspan class="dots"> ....... </tspan><tspan class="val">Reliable, secure, and tested code.</tspan></text>
+  <text x="425" y="804.6" class="text"><tspan class="rule">-----------------------------------------------------------------</tspan></text>
+</svg>

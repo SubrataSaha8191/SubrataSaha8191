@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-terminal-light.svg" />
-    <img alt="Subrata Saha Terminal" src="./profile-terminal.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./subrata-terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./subrata-terminal-light.svg" />
+    <img alt="Subrata Saha Terminal" src="./subrata-terminal.svg" width="100%" />
   </picture>
 </p>
 
@@ -34,7 +34,7 @@ I approach engineering by moving beyond prototypes into working, dependable syst
 ## `02 / Technology stack`
 
 <div align="center">
-  <h3>💻 Tech Stack ⚡</h3>
+  <h3>💻 Tech Stack</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
