@@ -97,7 +97,8 @@ I approach engineering by moving beyond prototypes into working, dependable syst
 I am always interested in discussing machine learning architectures, security engineering, and systems automation.
 
 <p align="center">
-  <a href="https://github.com/SubrataSaha8191"><img src="https://img.shields.io/badge/GitHub-SubrataSaha8191-181717?style=flat-square&logo=github&logoColor=white" alt="Subrata Saha GitHub Profile" /></a>
+  <a href="https://github.com/SubrataSaha8191"><img src="https://iconscout.com/icons/github-logo" alt="Subrata Saha GitHub Profile" /></a>
+  <a href="https://www.linkedin.com/in/subrata-saha-568a9835a/"><img src="https://seeklogo.com/free-vector-logos/linkedin" alt="Subrata Saha LinkedIn Profile" /></a>
 </p>
 
 <p align="center">
