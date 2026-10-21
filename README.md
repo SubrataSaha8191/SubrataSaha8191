@@ -1,16 +1,10 @@
-```text
-┌──(subrata㉿SubrataSaha8191)-[~]
-└─$ whoami
-Subrata Saha — AI/ML and automation-focused computer science engineer
-
-┌──(subrata㉿SubrataSaha8191)-[~]
-└─$ cat current_focus.txt
-Machine learning, cybersecurity, intelligent agents, and automation
-
-┌──(subrata㉿SubrataSaha8191)-[~]
-└─$ cat philosophy.txt
-Building useful, reliable, and secure systems
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal-light.svg" />
+    <img alt="Subrata Saha Terminal" src="https://raw.githubusercontent.com/SubrataSaha8191/SubrataSaha8191/main/terminal.svg" width="100%" />
+  </picture>
+</p>
 
 <div align="center">
   <h1>Subrata Saha</h1>

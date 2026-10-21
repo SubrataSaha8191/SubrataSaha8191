@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 570" width="100%" height="auto">
+  <defs>
+    <style>
+      .term-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 10px; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #8b949e; text-anchor: middle; }
+      .ascii { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 12px; fill: #7ee787; white-space: pre; }
+      .text { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace; font-size: 12px; white-space: pre; }
+      .user { fill: #58a6ff; font-weight: bold; }
+      .rule { fill: #484f58; }
+      .sec { fill: #3fb950; font-weight: bold; }
+      .key { fill: #e3b341; }
+      .dots { fill: #484f58; }
+      .val { fill: #e6edf3; }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="890" height="570" class="term-bg" />
+
+  <!-- Window Header Bar -->
+  <circle cx="24" cy="22" r="6" fill="#ff5f56" />
+  <circle cx="42" cy="22" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="22" r="6" fill="#27c93f" />
+  <text x="445" y="26" class="title">subrata@SubrataSaha8191: ~ (fastfetch)</text>
+  <line x1="1" y1="42" x2="889" y2="42" stroke="#21262d" stroke-width="1" />
+
+  <text x="28" y="75.0" class="ascii">                 @                </text>
+  <text x="315" y="75.0" class="text"><tspan class="user">subrata@SubrataSaha8191</tspan><tspan class="rule"> -----------------------------------------</tspan></text>
+  <text x="28" y="92.5" class="ascii">            .-::=WWW=.:           </text>
+  <text x="315" y="92.5" class="text"><tspan class="key">. OS:</tspan><tspan class="dots"> ...................... </tspan><tspan class="val">Linux, Windows</tspan></text>
+  <text x="28" y="110.0" class="ascii">          --=:.. =#@#==--         </text>
+  <text x="315" y="110.0" class="text"><tspan class="key">. Uptime:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Computer Science &amp; Engineering Student</tspan></text>
+  <text x="28" y="127.5" class="ascii">         ....:=+..-*......        </text>
+  <text x="315" y="127.5" class="text"><tspan class="key">. Host:</tspan><tspan class="dots"> .................... </tspan><tspan class="val">Systems, Security &amp; Applied AI</tspan></text>
+  <text x="28" y="145.0" class="ascii">        +===-:...:=+------=       </text>
+  <text x="315" y="145.0" class="text"><tspan class="key">. Kernel:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">AI/ML &amp; Automation Engineer</tspan></text>
+  <text x="28" y="162.5" class="ascii">       *#***###==*==#*##***#      </text>
+  <text x="315" y="162.5" class="text"><tspan class="key">. IDE:</tspan><tspan class="dots"> ..................... </tspan><tspan class="val">VS Code, Neovim</tspan></text>
+  <text x="28" y="180.0" class="ascii">       #%%%%%#%%@+-%%##%#%#%      </text>
+  <text x="28" y="197.5" class="ascii">      --------#W%::=--:------     </text>
+  <text x="315" y="197.5" class="text"><tspan class="key">. Languages.Programming:</tspan><tspan class="dots"> ... </tspan><tspan class="val">Python, C, C++, Rust</tspan></text>
+  <text x="28" y="215.0" class="ascii">      .......=%#*=:-..-:.....     </text>
+  <text x="315" y="215.0" class="text"><tspan class="key">. AI/ML.Frameworks:</tspan><tspan class="dots"> ........ </tspan><tspan class="val">scikit-learn, XGBoost, LightGBM</tspan></text>
+  <text x="28" y="232.5" class="ascii">      .....=*@#-#W+-..+=:....     </text>
+  <text x="315" y="232.5" class="text"><tspan class="key">. Intelligent.Agents:</tspan><tspan class="dots"> ...... </tspan><tspan class="val">Hugging Face, Ollama</tspan></text>
+  <text x="28" y="250.0" class="ascii">      ...=%#+**+*==-..#*=:...     </text>
+  <text x="315" y="250.0" class="text"><tspan class="key">. Backend.APIs:</tspan><tspan class="dots"> ............ </tspan><tspan class="val">FastAPI, Node.js</tspan></text>
+  <text x="28" y="267.5" class="ascii">       .:W#==-==-::--=@%==..      </text>
+  <text x="315" y="267.5" class="text"><tspan class="key">. Databases:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">MongoDB, MySQL</tspan></text>
+  <text x="28" y="285.0" class="ascii">       .=@#*=====---=*@@#+=:      </text>
+  <text x="315" y="285.0" class="text"><tspan class="key">. Infrastructure:</tspan><tspan class="dots"> .......... </tspan><tspan class="val">Linux, Docker, Git, AWS</tspan></text>
+  <text x="28" y="302.5" class="ascii">        +W@*+++++==-++%W%*=       </text>
+  <text x="28" y="320.0" class="ascii">         W@%%%%*##*+*+%W%*        </text>
+  <text x="315" y="320.0" class="text"><tspan class="sec">- Focus </tspan><tspan class="rule">---------------------------------------------------------</tspan></text>
+  <text x="28" y="337.5" class="ascii">          @WW@##%##*#%%W@         </text>
+  <text x="315" y="337.5" class="text"><tspan class="key">. Primary:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">Machine Learning &amp; Threat Intelligence</tspan></text>
+  <text x="28" y="355.0" class="ascii">         @@@@#%%###+#@%W@+        </text>
+  <text x="315" y="355.0" class="text"><tspan class="key">. Security:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">Phishing Detection &amp; Defensive Systems</tspan></text>
+  <text x="28" y="372.5" class="ascii">        %W@@%@###*#*%@@W@@%       </text>
+  <text x="315" y="372.5" class="text"><tspan class="key">. Architecture:</tspan><tspan class="dots"> ............ </tspan><tspan class="val">Low-Latency APIs &amp; Practical Pipelines</tspan></text>
+  <text x="28" y="390.0" class="ascii">       .%@W@%@#%*=+*%@@W%*#=      </text>
+  <text x="315" y="390.0" class="text"><tspan class="key">. Learning:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">Systems-Level Tooling in Rust</tspan></text>
+  <text x="28" y="407.5" class="ascii">      .:@@W%%%%##++**#@@#=+=-     </text>
+  <text x="28" y="425.0" class="ascii">     -:*@W@@%%*##+=+=#%%+##+=-    </text>
+  <text x="315" y="425.0" class="text"><tspan class="sec">- Contact </tspan><tspan class="rule">-------------------------------------------------------</tspan></text>
+  <text x="28" y="442.5" class="ascii">    +*+*#@@@@%##%*=-=%@=.==--*=   </text>
+  <text x="315" y="442.5" class="text"><tspan class="key">. GitHub:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">github.com/SubrataSaha8191</tspan></text>
+  <text x="28" y="460.0" class="ascii">   %%%%#=%W@%%%@W%+=+%%::-::+*-=  </text>
+  <text x="315" y="460.0" class="text"><tspan class="key">. LinkedIn:</tspan><tspan class="dots"> ................ </tspan><tspan class="val">linkedin.com/in/subrata-saha-568a9835a</tspan></text>
+  <text x="28" y="477.5" class="ascii">  %%#*%#=@@%@###***%%@+.:-.:*#=== </text>
+  <text x="28" y="495.0" class="ascii"> **+**#+=@%@#****#%#@%:.=*::::--==</text>
+  <text x="315" y="495.0" class="text"><tspan class="sec">- Philosophy </tspan><tspan class="rule">----------------------------------------------------</tspan></text>
+  <text x="28" y="512.5" class="ascii">..::.:.-+%%##%@@@%++*:.:*W+:..:..:</text>
+  <text x="315" y="512.5" class="text"><tspan class="key">. Mindset:</tspan><tspan class="dots"> ................. </tspan><tspan class="val">Learn deeply. Build carefully.</tspan></text>
+  <text x="28" y="530.0" class="ascii">::--:-===%#%@#*%%#**=  =W%#*====##</text>
+  <text x="315" y="530.0" class="text"><tspan class="key">. Output:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Reliable, secure, and tested code.</tspan></text>
+  <text x="28" y="547.5" class="ascii">===+==*=.+@%@#==*++%..:-#%@%===-++</text>
+  <text x="315" y="547.5" class="text"><tspan class="rule">-----------------------------------------------------------------</tspan></text>
+</svg>
